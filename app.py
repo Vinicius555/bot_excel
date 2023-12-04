@@ -40,4 +40,3 @@ for titulo, preco in zip(titulos, precos):
 
 # Salvando a planilha
 workbook.save('produtos.xlsx')
-# Como entregar para o cliente
